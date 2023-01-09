@@ -2,7 +2,7 @@
 This project is a site where there are:
 - 1 index page
 - 3 pages, one for each recipe
-It was only used HTML to build this project, along with elements such as:
+It was only used HTML and CSS to build this project, along with elements such as:
 - `<a>` to redirect the user to the recipe's page and back to the index one.
 - `<ul>` to show the ingredientes required.
 - `<ol>` for the step-by-step section.
