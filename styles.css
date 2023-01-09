@@ -4,13 +4,15 @@ p,li{
     margin: 0 auto;
     margin-bottom: 10px;
     margin-top: 9px;
-    font-size: 20px;
+    font-size: 18px;
+    color: #0588a8;
 }
 body{
     background-color: aliceblue
 }
 *{
     text-align: center;
+    font-family: monospace, Verdana;
 }
 h1,h2{
     border-bottom: 2px solid blue;
